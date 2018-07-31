@@ -1,5 +1,7 @@
 # faceID_lib
 
+faceID_lib is built with python 3 and dlib
+
 ## How to run
 If you want to find the faces in the picture
 
