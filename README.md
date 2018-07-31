@@ -17,6 +17,10 @@ cd $faceID_root
 python3 examples/find_face_in_picture/find_faces_in_picture.py --input image_to_test --output output_image_with_face_rect
 ```
 
+<img src="examples/find_face_in_picture/result1.jpg" width="400px"/>
+
+<img src="examples/find_face_in_picture/result2.jpg" width="400px"/>
+
 Search specific IDs with sample image in images folder
 
 ```bash
