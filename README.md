@@ -36,3 +36,4 @@ The images that has matched the IDs in input will be save in
 
 ## Acknowledgments
 Code partly borrows from [face_recognition](https://github.com/ageitgey/face_recognition)
+Models are adopted from [davisking](https://github.com/davisking/dlib-models.git)
