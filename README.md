@@ -10,7 +10,7 @@ Opencv
 Python 3.3+
 
 ## How to run
-### If you want to find the faces in the picture
+### Find the faces in the picture
 
 ```bash
 cd $faceID_root
