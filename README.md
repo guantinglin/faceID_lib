@@ -29,4 +29,4 @@ The images that has matched ID in input will be save in
 ```$faceID_root/examples/search_ID/output```
 
 ## Acknowledgments
-Code borrows heavily from [face_recognition](https://github.com/ageitgey/face_recognition)
+Code partly borrows from [face_recognition](https://github.com/ageitgey/face_recognition)
