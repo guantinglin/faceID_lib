@@ -1,6 +1,6 @@
 # faceID_lib
 
-# How to run
+## How to run
 If you want to find the faces in the picture
 
 ```bash
@@ -18,4 +18,4 @@ python3 examples/search_ID/search.py --sample examples/search_ID/sample_clintion
 The output will be save in $faceID_root/examples/search_ID/output
 
 ## Acknowledgments
-Code borrows heavily from [ageitgey](https://github.com/ageitgey/face_recognition)
+Code borrows heavily from [face_recognition](https://github.com/ageitgey/face_recognition)
