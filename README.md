@@ -1,6 +1,11 @@
 # faceID_lib
 
-faceID_lib is built with python 3 and dlib
+faceID_lib is built with python and dlib
+
+## Dependencies
+dlib
+Opencv
+Python 3.3+
 
 ## How to run
 If you want to find the faces in the picture
