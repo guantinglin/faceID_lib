@@ -38,7 +38,7 @@ if __name__ == "__main__":
     
     faceID_lib.imwrite(args.output,image)
         
-    faceID_lib.show_image_cv("face_detection",image,wait_time=0)
+    faceID_lib.show_image_cv("face_detection",image,wait_time=5000)
     
     
     
