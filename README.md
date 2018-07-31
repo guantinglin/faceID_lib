@@ -10,7 +10,7 @@ Opencv
 Python 3.3+
 
 ## How to run
-If you want to find the faces in the picture
+#### If you want to find the faces in the picture
 
 ```bash
 cd $faceID_root
@@ -21,7 +21,7 @@ python3 examples/find_face_in_picture/find_faces_in_picture.py --input image_to_
 
 <img src="examples/find_face_in_picture/result2.jpg" width="400px"/>
 
-Search specific IDs with sample image in images folder
+### Search specific IDs with sample image in images folder
 
 ```bash
 cd $faceID_root
