@@ -23,7 +23,7 @@ python3 examples/find_face_in_picture/find_faces_in_picture.py --input image_to_
 
 
 
-### Search specific IDs with sample image in images folder
+### Search specific IDs with sample image in input folder
 
 ```bash
 cd $faceID_root
